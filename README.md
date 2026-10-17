@@ -3,7 +3,7 @@ Python_Estructuras_de_Datos
 
 **Recursividad & Arboles**
 
-Componente: Programacion con estructura de datos
+# Componente: Programacion con estructura de datos
 
 Docente: Maycold Marcelo Vasquez Artola
 
