@@ -7,6 +7,6 @@ Componente: Programacion con estructura de datos
 
 Docente: Maycold Marcelo Vasquez Artola
 
-**Entrega: Jostin Azael Anotn Centeno N**
+**Entrega: Jostin Azael Anotn Centeno**
 
 **Carnet: 25407297**
