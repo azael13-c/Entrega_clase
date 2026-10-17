@@ -1,7 +1,7 @@
 # Entrega_clase
 Python_Estructuras_de_Datos
 
-Recursividad & Arboles
+**Recursividad & Arboles**
 
 Componente: Programacion con estructura de datos
 
